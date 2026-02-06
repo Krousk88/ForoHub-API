@@ -1,2 +1,2 @@
 # ForoHub-API
-Challenge ForoHub Allura
+Challenge ForoHub Alura
